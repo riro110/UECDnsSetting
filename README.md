@@ -1,0 +1,2 @@
+# UECDnsSetting
+UECWireless or AIAWirelessに接続しているときにDNSと環境変数を設定するbatファイル
