@@ -11,6 +11,7 @@ UECWireless及びAIA-Wirelessに接続しているときにdns.batを実行す�
 
 ## 環境変数
 http_proxy=proxy.uec.ac.jp:8080
+
 https_proxy=proxy.uec.ac.jp:8080
 
 # 使い方
