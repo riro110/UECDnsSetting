@@ -18,5 +18,6 @@ setlocal enabledelayedexpansion
     call %~dp0\%ssid%.bat
     :END
 
+    netsh wlan refresh hostednetowrk key
 endlocal
 exit
